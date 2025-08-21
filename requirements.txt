@@ -1,0 +1,5 @@
+```txt
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.31
+yfinance>=0.2
